@@ -18,7 +18,7 @@ bash
 Insert Code
 Edit
 Copy code
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Mk-dugri/password_cracker_web_page_using_python
 Navigate to the project directory:
 bash
 Insert Code
